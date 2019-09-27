@@ -1,4 +1,5 @@
 import random
+# Для коректной работы модуль клавиатуры должен быть установлен
 import keyboard
 
 class Play():
